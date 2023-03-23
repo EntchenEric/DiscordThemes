@@ -26,7 +26,7 @@
   .withTagAsButton-OsgQ9L:hover, 
   .withTagless-10ooWt:hover {
     background-color: rgba(0, 0, 0, .3);
-    border-radius: 4px;
+    border-radius: 12px;
     border: 1px solid #9b2742;
     color: white;
   }
@@ -58,7 +58,7 @@
   .tutorialIcon-25VF3Q {
     background-color: #9b2742;
     color: white;
-    border-radius: 7px;
+    border-radius: 20px;
   }
   
   .tutorial-Nb3Zz5 {
@@ -75,7 +75,7 @@
   }
   
   .emptyChannelIcon-1YdEz2 {
-    border-radius: 7px;
+    border-radius: 20px;
     background-color: #9b2742;
   }
   
@@ -152,7 +152,7 @@
   }
   
   .roundButton-2_R5PN {
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   .button-1zW0-r {
@@ -220,7 +220,7 @@
   }
   
   .closeButton-PCZcma {
-    border-radius: 7px;
+    border-radius: 20px;
   }
   
   .theme-dark .closeButton-PCZcma:hover {
@@ -277,7 +277,7 @@
   }
   
   .container-x8Y1ix {
-    border-radius: 4px;
+    border-radius: 12px;
     border: 1px solid #9b2742;
     background-color: rgba(0, 0, 0, .4);
   }
@@ -590,7 +590,7 @@
   }
   
   .role-2TIOKu {
-    border-radius: 4px;
+    border-radius: 12px;
     padding: 5px;
   }
   
@@ -623,7 +623,7 @@
   }
   
   .iconInactive-26M06U {
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   .accountBtn-1YkMgV .accountBtnInner-3XK70s {
@@ -795,7 +795,7 @@
   .avatar-2e8lTP {
     width: 47px;
     height: 47px;
-    border-radius: 4px;
+    border-radius: 12px;
     top: 5px;
   }
   
@@ -804,7 +804,7 @@
   }
   
   .round-1RSG-3 {
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   .theme-dark #bd-settingspane-container .ui-switch-item h3, .standardSidebarView-E9Pc3j #editor-detached h3 {
@@ -972,7 +972,7 @@
   }
   
   .avatar-3FKimL {
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   .header-3OsQeK {
@@ -1077,14 +1077,14 @@
   
   .live-1V2D-f {
     padding: 3px 6px;
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   .textBadge-1fdDPJ {
     padding: 3px 6px;
   }
   .base-3IDx3L {
-    border-radius: 4px;
+    border-radius: 12px;
     min-width: 19px;
     min-height: 19px;
     background-color: #9b2742 !important;
@@ -1120,7 +1120,7 @@
     padding: 5px 8px;
     color: white;
     background: rgba(255,255,255,.13);
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   .button-3bklZh:hover,
@@ -1131,7 +1131,7 @@
   
   .mention-3XBnnZ {
     background-color: #9b2742;
-    border-radius: 4px;
+    border-radius: 12px;
     opacity: .5;
   }
   
@@ -1149,7 +1149,7 @@
   }
   
   .reaction-3vwAF2 {
-    border-radius: 4px;
+    border-radius: 12px;
     background-color: rgba(155, 39, 66, .6);
   }
   
@@ -1179,7 +1179,7 @@
   .moreUsers-_v6T-L {
     background-color: rgba(0, 0, 0, .3);
     color: white;
-    border-radius: 4px;
+    border-radius: 12px;
     padding: 0 4px;
   }
   
@@ -1188,7 +1188,7 @@
   }
   
   .avatar-3TrM7c, .clickableAvatar-igrb2Y, .emptyUser-2FDCJv {
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   .botTag-7aX5WZ {
@@ -1255,7 +1255,7 @@
   .wanderingCubes-2A046F .item-2VgEex {
     background-color: #9b2742;
     width: 14px;
-    border-radius: 4px;
+    border-radius: 12px;
     height: 14px;
   }
   
@@ -1328,7 +1328,7 @@
   }
   
   .wrapper-2fEmwW {
-    border-radius: 4px;
+    border-radius: 12px;
     color: white;
   }
   
@@ -1435,7 +1435,7 @@
   }
   
   .option-2KkUJO.user-23VtPS .displayAvatar-3XS1w6 {
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   .theme-dark .option-2KkUJO.user-23VtPS .displayedNick-2dDbfG, .theme-dark .option-2KkUJO .filter-5YbOzJ,
@@ -1455,7 +1455,7 @@
   }
   
   .combo-3PNrpQ span {
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   .theme-dark .dim-GXxpGm span:active {
@@ -1575,7 +1575,7 @@
   }
   
   .emptyChannelIcon-3IXV5M {
-    border-radius: 4px;
+    border-radius: 12px;
     background-color: rgba(0, 0, 0, .26);
   }
   
@@ -1626,7 +1626,7 @@
   .replyAvatar-sHd2sU, 
   .replyBadge-LMm_Ic, 
   .threadMessageAccessoryAvatar-17qE_g {
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   .side-1lrxIh .themed-qqoYp3.item-2GWPIy:hover:not(.disabled-2G98Nl), 
@@ -1635,7 +1635,7 @@
   }
   
   .emptyChannelIcon-3IXV5M {
-    border-radius: 4px;
+    border-radius: 12px;
     background-color: rgba(0, 0, 0, .26);
   }
   
@@ -1717,7 +1717,7 @@
   
   .messages-23can0 {
     background-color: rgba(0,0,0,.5);
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   .messageGroupWrapper-1jf_7C {
@@ -1771,13 +1771,13 @@
   }
   
   .auto-2TJ1RH::-webkit-scrollbar-thumb {
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   .auto-2TJ1RH::-webkit-scrollbar-track {
     background-color: transparent;
     border: none;
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   
@@ -1828,7 +1828,7 @@
   
   .diversitySelectorPopout-3FiGaM {
     background-color: rgba(0, 0, 0, .56);
-    border-radius: 7px;
+    border-radius: 20px;
     border: none;
   }
   
@@ -1910,7 +1910,7 @@
     animation-duration: 3s;
     animation-iteration-count: infinite;
     animation-timing-function: ease-in-out;
-    border-radius: 4px;
+    border-radius: 12px;
     background-color: #9b2742;
   }
   
@@ -1997,7 +1997,7 @@
   .avatarHint-1qgaV3 {
     width: 110px;
     height: 110px;
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   .bodyTitle-Y0qMQz, .userInfoSectionHeader-CBvMDh {
@@ -2081,7 +2081,7 @@
   }
   
   .input-3r5zZY {
-    border-radius: 7px;
+    border-radius: 20px;
     background-color: rgba(0, 0, 0, .4);
     color: white;
     box-shadow: none;
@@ -2224,14 +2224,14 @@
   
   
   .voiceSectionGuildImage-TctMOd, .voiceSectionNoGuildImageWrapper-17kLyh {
-    border-radius: 4px;
+    border-radius: 12px;
     -webkit-mask: none;
     mask: none;
   }
   
   
   .voiceSectionAssets-1dg-E5 {
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   
@@ -2241,7 +2241,7 @@
   
   .theme-dark .voiceSectionIconWrapper-4yoj76 {
     background-color: #9b2742;
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   .partyMember-YLjOa7:last-child, .partyMember-YLjOa7 {
@@ -2252,7 +2252,7 @@
   .theme-dark .partyMemberOverflow-3G1oZz {
     color: white;
     background-color: #9b2742;
-    border-radius: 4px;
+    border-radius: 12px;
     padding: 1px 0;
   }
   
@@ -2300,7 +2300,7 @@
   }
   
   .actionButton-3-B2x- {
-    border-radius: 4px;
+    border-radius: 12px;
     color: white;
     background-color: rgba(0, 0, 0, .6);
   }
@@ -2320,19 +2320,19 @@
   
   .border-2BJQjd.video-3SrWSI.speaking-3RWJBr,
   .border-2BJQjd.voice-3bPYC-.speaking-3RWJBr {
-    border-radius: 4px;
+    border-radius: 12px;
     border: 4px solid #9b2742;
     box-shadow: none;
   }
   
   .border-2BJQjd {
-    border-radius: 4px;
+    border-radius: 12px;
     border: 4px solid #9b2742;
   }
   
   .videoAvatar-1ohPSC, 
   .voiceAvatar-lRbblo {
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   .controlButton-2PMNom.leaveButton-2YnTyt {
@@ -2368,7 +2368,7 @@
   
   .status-1ZXjSF.voice-3bPYC- {
     background-color: #9b2742;
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   .guildSeparator-33mFX6, .theme-dark .scroller-3X7KbA, .wrapper-1_HaEi {
@@ -2380,11 +2380,11 @@
   }
   
   .icon-3AqZ2e, .folder-241Joy, .folderIconWrapper-1oRIZr, .childWrapper-1j_1ub, .circleIconButton-1VxDrg {
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   .expandedFolderBackground-1kSAf6 {
-    border-radius: 4px;
+    border-radius: 12px;
     background-color: transparent !important;
   }
   
@@ -2400,7 +2400,7 @@
     position: absolute;
     width: 22px;
     height: 22px !important;
-    border-radius: 4px;
+    border-radius: 12px;
     margin-left: 10px;
     margin-top: -26px;
     background-color: #9b2742;
@@ -2555,13 +2555,13 @@
   }
   
   .imageUploaderIcon-2OHmFu {
-    border-radius: 4px;
+    border-radius: 12px;
     box-shadow: none;
   }
   
   .profileBannerPreview-3mLIdO {
     background-color: rgba(0, 0, 0, .6);
-    border-radius: 4px;
+    border-radius: 12px;
     box-shadow: none;
   }
   
@@ -2572,7 +2572,7 @@
   
   .connection-YOVI9j {
     background-color: rgba(155, 39, 66, .30);
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   .connectionHeader-Ixbb1s {
@@ -2581,7 +2581,7 @@
   
   .connectContainer-1hylYM {
     background-color: rgba(155, 39, 66, .30);
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   .connectContainer-1hylYM a {
@@ -2614,7 +2614,7 @@
   }
   
   .integration-1qC-fv {
-    border-radius: 4px;
+    border-radius: 12px;
     background: rgba(0, 0, 0, .4);
   }
   
@@ -2797,7 +2797,7 @@
   
   .avatar-l9Txm5 {
     opacity: 1 !important;
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   .attachment-16cAbS, .avatar-l9Txm5, .blob-1uHjdp {
@@ -2821,7 +2821,7 @@
   .icon-mJhEWn,
   .icon-2yhmi8 {
     background-color: #9b2742;
-    border-radius: 4px;
+    border-radius: 12px;
     color: white;
   }
   
@@ -2830,14 +2830,14 @@
   }
   
   .iconWrapper-3plkqh {
-    border-radius: 4px;
+    border-radius: 12px;
     background-color: #9b2742;
   }
   
   .container-2rzKKA {
     background-color: rgba(155, 39, 66, .55);
     border: 1px solid #ad3950 !important;
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   .avatar-2jnSDw foreignObject, 
@@ -2858,7 +2858,7 @@
   }
   
   .icon-2DGsye {
-    border-radius: 4px;
+    border-radius: 12px;
     background-color: #9b2742;
   }
   
@@ -2903,7 +2903,7 @@
   
   .previewContainer-1GxmBJ {
     background: #9b2742;
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   .theme-light .messageContainer-3a6gLR {
@@ -2943,7 +2943,7 @@
   }
   
   .centerButton-1IShs7 {
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   .profileBadges-31rDHI {
@@ -3098,7 +3098,7 @@
     color: white;
   }
   .reaction-102jx9 {
-    border-radius: 4px;
+    border-radius: 12px;
     background-color: rgba(155, 39, 66, .6);
   }
   .reaction-102jx9:hover {
@@ -3123,7 +3123,7 @@
   .addReactButton-3bSQb6, .buttonInner-3aRbcx {
     color: silver;
     background-color: rgba(155, 39, 66, .4);
-    border-radius: 4px;
+    border-radius: 12px;
     border: 2px solid transparent;
   }
   .addReactButton-3bSQb6:hover, .buttonInner-3aRbcx:hover {
@@ -3152,7 +3152,7 @@
     border: 4px solid transparent;
   }
   .container-xwOzwi, .container-2Hi7Km {
-    border-radius: 4px;
+    border-radius: 12px;
   }
   /* Channel Feeds */
   .feedItemHeader-txJq98 {
@@ -3163,7 +3163,7 @@
     box-shadow: none;
   }
   .card-3x20HF {
-    border-radius: 4px;
+    border-radius: 12px;
     background-color: rgba(155, 39, 66, .4);
   }
   .loadingCard-3pIp9h {
@@ -3182,7 +3182,7 @@
     color: white;
   }
   .container-3HMTms {
-    border-radius: 4px;
+    border-radius: 12px;
   }
   .container-3HMTms:hover {
     background-color: rgba(0, 0, 0, .2);
@@ -3214,7 +3214,7 @@
   
   .reactionBtn-3I19bq.forceShowLook-1zmTr- {
     background-color: rgba(155, 39, 66, .4);
-    border-radius: 4px;
+    border-radius: 12px;
     border: 2px solid transparent;
   }
   
@@ -3234,7 +3234,7 @@
   }
   
   .row-1qtctT {
-      border-radius: 4px;
+      border-radius: 12px;
       color: white;
   }
   
@@ -3258,13 +3258,13 @@
   
   .card-8UsK4b {
     background-color: rgba(0,0,0,.2);
-    border-radius: 4px;
+    border-radius: 12px;
     border: 2px solid rgba(0,0,0,.2);
   }
   
   .card-8UsK4b:hover {
     background-color: rgba(0,0,0,.5);
-    border-radius: 4px;
+    border-radius: 12px;
     border: 2px solid rgba(0,0,0,.5);
   }
   
@@ -3286,7 +3286,7 @@
   
   .rsvpCount-iCkObl {
     background-color: rgba(0,0,0,.6);
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   .tierInfoContainer-3o77tj,
@@ -3378,7 +3378,7 @@
   
   #app-mount .optionContainer-yOpaLq { 
     background: rgba(0,0,0,.15);
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   
@@ -3461,7 +3461,7 @@
   
   .valuePropContainer-WkXrIU {
     background-color: rgba(0,0,0,.5);
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   .valuePropIconContainer-1WLjVd {
@@ -3514,7 +3514,7 @@
   .container-3arpDl {
     background-color: rgba(0,0,0,.4);
     border: none;
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   .container-3arpDl .guidelines-jQLwyH a {
@@ -3523,7 +3523,7 @@
   
   .descriptionContainer-2ylKGk {
     background-color: transparent;
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   
@@ -3541,7 +3541,7 @@
   }
   
   .sortDropdown-hY93nR {
-    border-radius: 4px;
+    border-radius: 12px;
     background-color: #1c1c1c;
   }
   
@@ -3719,7 +3719,7 @@
   
   .table-17_dGF {
     background-color: rgba(0,0,0,.6);
-    border-radius: 4px;
+    border-radius: 12px;
   }
   
   .checkboxLabel-3VTAjH a {
@@ -3759,7 +3759,7 @@
   .card-sX105p,
   .list-1bztb- {
       background-color: rgba(0,0,0,.4);
-      border-radius: 4px;
+      border-radius: 12px;
   }
   
   .commandName-SDgdgz {
@@ -3955,7 +3955,7 @@
   
   .featureIcon-2sTnDK {
     background-color: rgba(255,255,255,.12);
-    border-radius: 7px;
+    border-radius: 20px;
   }
   
   .stickyHeaderElevated-dNSSrJ {
@@ -4053,7 +4053,7 @@
   }
   
   .overlayTitle-2efoIF {
-    border-radius: 4px;
+    border-radius: 12px;
     background: rgba(0,0,0,.6);
     color: white;
   }
