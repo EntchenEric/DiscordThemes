@@ -1732,7 +1732,7 @@
     height: 30px;
     font-size: small;
     text-align: center;
-    background-color: rgb(155, 39, 66, .5);
+    background-color: rgba(155, 39, 66, 0);
   }
   
   .auto-2TJ1RH::-webkit-scrollbar {
@@ -1770,6 +1770,7 @@
   .auto-2TJ1RH::-webkit-scrollbar-thumb {
     background-color: rgba(155, 39, 66, .7);
     border-radius: 20px;
+
   }
   
   .auto-2TJ1RH::-webkit-scrollbar-thumb {
